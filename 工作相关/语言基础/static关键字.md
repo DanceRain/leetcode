@@ -24,3 +24,4 @@
 **Non-const static data member ** 必须在类外定义。
 
 **static member function** 必须只能使用 **static data member**。 
+
